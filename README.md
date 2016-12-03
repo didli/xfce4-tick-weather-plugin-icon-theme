@@ -1,11 +1,10 @@
 # xfce4-tick-weather-plugin-icon-theme
-ICONS = Original Icon Theme by xiao4 (aka Long Yin @http://xiao4.deviantart.com/)
-AUTHOR = Theme by mediaklan (aka Didier LIMA http://mediaklan.com)
-THEME = Weather Tick
+* ICONS = Original Icon Theme by xiao4 (aka Long Yin @http://xiao4.deviantart.com/)
+* AUTHOR = Theme by mediaklan (aka Didier LIMA http://mediaklan.com)
+* THEME = Weather Tick
 
 	This icon theme should be supported by latest xfce4-weather-plugin version. 
 	If not, xfce4-weather-plugin should be compiled in order to use this theme.
-
 	Here's a method suitable for Fedora (use your own OS package manager to follow this procedure)  
 
 1. Xfce4-weather-plugin compilation :
